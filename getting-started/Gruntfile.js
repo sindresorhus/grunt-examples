@@ -16,6 +16,7 @@ module.exports = function (grunt) {
 		// grunt comes bundled with a lot of useful utility functions
 		pkg: grunt.file.readJSON('package.json'),
 		// grunt task
+		// https://github.com/gruntjs/grunt-contrib-watch
 		watch: {
 			// task target
 			jshint: {
@@ -26,6 +27,7 @@ module.exports = function (grunt) {
 				tasks: ['newer:jshint']
 			}
 		},
+		// https://github.com/gruntjs/grunt-contrib-jshint
 		jshint: {
 			target: {
 				// standard options object
@@ -37,6 +39,7 @@ module.exports = function (grunt) {
 				files: ['**/*.js']
 			}
 		},
+		// https://github.com/gruntjs/grunt-contrib-uglify
 		uglify: {
 			target: {
 				// you can also specify the files dynamically so you don't have to specify every
@@ -51,6 +54,7 @@ module.exports = function (grunt) {
 			}
 		},
 		// easily run a shell command
+		// https://github.com/sindresorhus/grunt-shell
 		shell: {
 			// options can also be set for all targets
 			options: {
