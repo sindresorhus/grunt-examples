@@ -5,19 +5,24 @@
 
 ## Examples
 
-- [Getting started](getting-started/readme.md) - *a fully commented Gruntfile visually documenting how to get started*
+<img align="right" height="260" src="http://gruntjs.com/img/grunt-logo-no-wordmark.svg">
+
+- [Getting started](getting-started/readme.md)  
+  A fully commented Gruntfile visually documenting how to get started
 
 *Make sure you've [installed grunt](http://gruntjs.com/getting-started) before trying out any of the examples.*
 
 
 #### External
 
-- [generator-webapp Gruntfile](https://github.com/yeoman/generator-webapp/blob/master/app/templates/Gruntfile.js) - *a massive Gruntfile with a lot of tips and tricks*
+- [generator-webapp Gruntfile](https://github.com/yeoman/generator-webapp/blob/master/app/templates/Gruntfile.js)  
+  A massive Gruntfile with a lot of tips and tricks
 
 
 ## More
 
-- [Grunt docs](http://gruntjs.com/getting-started) - *you should read this before starting*
+- [Grunt docs](http://gruntjs.com/getting-started)  
+  You should read this before starting
 
 
 ## Tips
