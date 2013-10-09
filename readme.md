@@ -8,7 +8,7 @@
 <img align="right" height="260" src="http://gruntjs.com/img/grunt-logo-no-wordmark.svg">
 
 - [Getting started](getting-started/readme.md)  
-  A fully commented Gruntfile visually documenting how to get started
+  A fully commented Gruntfile visually documenting how to get started.
 
 - [Basic Example - Sass Compile](basic-sass-compile/readme.md)  
   Basic example of a Grunt task compiling Sass into CSS.
@@ -38,7 +38,8 @@ Quickly open the docs of a grunt task by running for example `npm docs grunt-she
 
 ## Authors
 
-[Sindre Sorhus](http://sindresorhus.com), Saul Maddox,
+[Sindre Sorhus](http://sindresorhus.com),
+[Saul Maddox](https://github.com/poeticninja),
 You?
 
 

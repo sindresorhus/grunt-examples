@@ -1,6 +1,6 @@
 # Basic Example - Compile Sass Into CSS
 
-This is a very simple grunt example that shows how to compile Sass files into css.
+This is a very simple grunt example that shows how to compile Sass files into CSS.
 
 Run `npm install` and then `grunt` to try it out.
 

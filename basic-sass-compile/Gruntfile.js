@@ -1,7 +1,6 @@
 'use strict';
 // wrapper function that exposes the grunt instance
 module.exports = function (grunt) {
-
 	// load all grunt tasks
 	require('load-grunt-tasks')(grunt);
 

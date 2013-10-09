@@ -1,7 +1,6 @@
 'use strict';
 // wrapper function that exposes the grunt instance
 module.exports = function (grunt) {
-
 	// load all grunt tasks
 	require('load-grunt-tasks')(grunt);
 	// this is not required but it shows the elapsed time at the end of the grunt task. just do it. :)
@@ -9,6 +8,7 @@ module.exports = function (grunt) {
 
 	// initialize the configuration object
 	grunt.initConfig({
+		// https://github.com/gruntjs/grunt-contrib-watch
 		watch: {
 			// task target
 			sass: {
