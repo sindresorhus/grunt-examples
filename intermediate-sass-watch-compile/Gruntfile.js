@@ -18,8 +18,12 @@ module.exports = function (grunt) {
 				tasks: ['sass']
 			}
 		},
+		// https://github.com/gruntjs/grunt-contrib-sass
 		sass: {
 			dist: {
+				// you can also specify the files dynamically so you don't have to specify every
+				// file manually. Also useful to preserve the existing folder structure
+				// https://github.com/gruntjs/grunt/wiki/Configuring-tasks#building-the-files-object-dynamically
 				files: [{
 					// this is the sass output style
 					expand: true,

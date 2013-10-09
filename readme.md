@@ -10,6 +10,12 @@
 - [Getting started](getting-started/readme.md)  
   A fully commented Gruntfile visually documenting how to get started
 
+- [Basic Example - Sass Compile](basic-sass-compile/readme.md)  
+  Basic example of a Grunt task compiling Sass into CSS.
+
+- [Intermediate Example - Sass Watch and Compile](intermediate-sass-watch-compile/readme.md)  
+  Intermediate example of a Grunt task that watches Sass files and compiles them into CSS.
+
 *Make sure you've [installed grunt](http://gruntjs.com/getting-started) before trying out any of the examples.*
 
 
@@ -32,7 +38,7 @@ Quickly open the docs of a grunt task by running for example `npm docs grunt-she
 
 ## Authors
 
-[Sindre Sorhus](http://sindresorhus.com),
+[Sindre Sorhus](http://sindresorhus.com), Saul Maddox,
 You?
 
 
