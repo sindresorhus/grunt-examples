@@ -1,4 +1,4 @@
-# grunt-examples
+# grunt-examples [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 > Examples of various ways to use [Grunt](http://gruntjs.com) using best-practices.
 
