@@ -1,6 +1,6 @@
 # grunt-examples
 
-> Examples of various ways to use [Grunt](http://gruntjs.com) using best-practices.
+> Examples of various ways to use [Grunt](http://gruntjs.com) using best-practices
 
 
 ## Examples
@@ -31,7 +31,7 @@
   You should read this before starting
 
 
-## Tips
+## Tip
 
 Quickly open the docs of a grunt task by running for example `npm docs grunt-shell`.
 
@@ -54,4 +54,4 @@ Take care to follow the existing code style and include a useful readme and code
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work. This work is published from: Norway.
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
